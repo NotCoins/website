@@ -1,1 +1,1 @@
-show logo
+show file NotCoin Logo.jpg
