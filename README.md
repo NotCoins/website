@@ -1,1 +1,1 @@
-<img src="Notcoin.jpg" />
+<img src="notcoin.jpg" />
