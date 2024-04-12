@@ -1,1 +1,1 @@
-show file NotCoin Logo.jpg
+<img src="NotCoin Logo.jpg" />
